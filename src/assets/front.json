@@ -1,0 +1,117 @@
+{
+"data": [
+{
+"id": 1,
+"name": "Men",
+"created_at": "2017-09-21 05:19:44",
+"updated_at": "2017-10-03 13:26:58",
+"children": [
+{
+"id": 2,
+"name": "clothings",
+"created_at": "2017-09-21 05:19:57",
+"updated_at": "2017-09-21 05:19:58"
+},
+{
+"id": 5,
+"name": "Accessories",
+"created_at": "2017-09-21 06:47:12",
+"updated_at": "2017-09-21 06:47:13"
+},
+{
+"id": 17,
+"name": "ghfghf",
+"created_at": "2017-10-03 13:26:57",
+"updated_at": "2017-10-03 13:26:58"
+}
+]
+},
+{
+"id": 3,
+"name": "Women",
+"created_at": "2017-09-21 06:32:40",
+"updated_at": "2017-10-03 13:26:58",
+"children": [
+{
+"id": 4,
+"name": "clothings",
+"created_at": "2017-09-21 06:33:18",
+"updated_at": "2017-10-03 13:26:58"
+},
+{
+"id": 6,
+"name": "Accessories",
+"created_at": "2017-09-21 06:47:31",
+"updated_at": "2017-10-03 13:26:58"
+}
+]
+},
+{
+"id": 7,
+"name": "Kiddies",
+"created_at": "2017-09-22 11:56:11",
+"updated_at": "2017-10-03 13:26:58",
+"children": [
+{
+"id": 8,
+"name": "clothings",
+"created_at": "2017-09-22 11:56:29",
+"updated_at": "2017-10-03 13:26:58"
+},
+{
+"id": 9,
+"name": "Accessories",
+"created_at": "2017-09-22 19:51:09",
+"updated_at": "2017-10-03 13:26:58"
+},
+{
+"id": 10,
+"name": "Shoes",
+"created_at": "2017-09-23 10:27:35",
+"updated_at": "2017-10-03 13:26:58"
+}
+]
+},
+{
+"id": 11,
+"name": "Food",
+"created_at": "2017-09-25 10:56:15",
+"updated_at": "2017-10-03 13:26:58",
+"children": [
+{
+"id": 12,
+"name": "beverages",
+"created_at": "2017-09-25 10:56:29",
+"updated_at": "2017-10-03 13:26:58"
+},
+{
+"id": 13,
+"name": "vegetables",
+"created_at": "2017-09-25 10:56:42",
+"updated_at": "2017-10-03 13:26:58"
+}
+]
+},
+{
+"id": 14,
+"name": "Drinks",
+"created_at": "2017-09-25 10:56:51",
+"updated_at": "2017-10-03 13:26:58",
+"children": [
+{
+"id": 15,
+"name": "Alcohol",
+"created_at": "2017-09-25 10:57:02",
+"updated_at": "2017-10-03 13:26:58"
+},
+{
+"id": 16,
+"name": "Soft drinks",
+"created_at": "2017-09-25 10:57:19",
+"updated_at": "2017-10-03 13:26:58"
+}
+]
+}
+],
+"message": "Successfully Retrieved All Categories"
+}
